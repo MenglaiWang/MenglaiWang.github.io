@@ -4,7 +4,7 @@ title: Introduction to debugging neural networks
 ---
 Some tips for debugging neural networks.
 
-repost from http://russellsstewart.com/notes/0.html
+repost from [russellsstewart]( http://russellsstewart.com/notes/0.html)
 
 The following advice is targeted at beginners to neural networks, and is based on my experience giving advice to neural net newcomers in industry and at Stanford. Neural nets are fundamentally harder to debug than most programs,because most neural net bugs don't result in type errors or runtime errors. They just cause poor convergence. Especially when you're new, this can be very frustrating! But an experienced neural net trainer will be able to systematically overcome the difficulty in spite of the ubiquitous and seemingly ambiguous error message:
 
