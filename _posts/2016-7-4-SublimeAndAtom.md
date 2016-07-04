@@ -16,8 +16,16 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 - **ColorSublime** : 用来安装其官网上的所有主题。
 安装此插件后，Ctrl+Shift+P，输入install theme并回车，等待片刻即缓存其官网所有主题到本地，按上下键可以即时预览效果，回车键安装。
 - **Anaconda** : Python代码自动补全、PEP8格式化等。
+- **SublimeAStyleFormatter** : 自动对齐
+- **BracketHilighter**：括号高亮
+- **C++NamespaceTool**
+- **SublimeLinter**
+- **FileDiffs**
+- **Auto Semi-Colon**：TAB自动跳出括号
 
 
 ### Atom插件
 
 - **markdown-preview-enhanced** ：很好用的Markdown编辑器。
+- **Autocomplete-paths** ：各种Autocomplete系列。
+- **python-tools** 
