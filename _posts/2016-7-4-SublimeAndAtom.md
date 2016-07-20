@@ -13,9 +13,7 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 - **ConvertToUTF8** : GBK编码兼容。
 - **[wakatime](https://wakatime.com/)** :自动记录code时间，支持多种编辑器和IDE。
 先到官网注册，登录后在右上角点用户名，选择Setting，左侧选Account，复制Api Key。Sublime中安装此插件会用到。以后就可以登录网站查看自己的code时间统计图。
-- **ColorSublime** : 用来安装其官网上的所有主题。
-安装此插件后，Ctrl+Shift+P，输入install theme并回车，等待片刻即缓存其官网所有主题到本地，按上下键可以即时预览效果，回车键安装。
-- **Anaconda** : Python代码自动补全、PEP8格式化等。
+- **SpaceGray** : 最喜欢的主题
 - **SublimeAStyleFormatter** : 自动对齐
 - **BracketHilighter**：括号高亮
 - **C++NamespaceTool**
@@ -28,4 +26,6 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 
 - **markdown-preview-enhanced** ：很好用的Markdown编辑器。
 - **Autocomplete-paths** ：各种Autocomplete系列。
-- **python-tools** 
+- **python-tools**
+- **highlight_selected**：
+- **minimap**：类似于sublime
