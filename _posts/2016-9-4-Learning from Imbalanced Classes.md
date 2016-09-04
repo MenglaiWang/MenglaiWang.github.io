@@ -6,6 +6,7 @@ title: Learning from Imbalanced Classes
 参考
 
  http://www.svds.com/learning-imbalanced-classes/
+
 http://www.jiqizhixin.com/article/1469
 
 如果你是机器学习课程的新手，那么你使用过的数据库很大程度上都是非常简单的。其中一个原因就是，当你构建分类器时，样本类都是平衡的——也就是说，每个类中的样本数量是大致相同的。在教学中，数据库通常是净化过的，这样老师才能够把注意力集中在教授特定算法或技巧上，而不被其它问题干扰。一般情况下，你遇到的样本类似下方的二维图表，其中的点代表样本、点的不同颜色（或形状）代表类：
