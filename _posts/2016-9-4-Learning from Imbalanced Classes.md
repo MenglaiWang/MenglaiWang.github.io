@@ -4,6 +4,7 @@ title: Learning from Imbalanced Classes
 ---
 
 参考
+
  http://www.svds.com/learning-imbalanced-classes/
 http://www.jiqizhixin.com/article/1469
 
@@ -134,6 +135,7 @@ SMOTE 取得了普遍的成功并衍生出了很多变体、扩展和对不同�
 ### 资源和拓展阅读
 
 这里有数个说明不平衡学习不同方面的 Jupyter notebooks 可用：
+
 - 一个说明高斯采样的（sampled Gaussians）的 notebook 是在[Gaussians.ipynb](https://github.com/silicon-valley-data-science/learning-from-imbalanced-classes/blob/master/Gaussians.ipynb)
 - 一个 Wallace 方法的简单实现[blagging.py](https://github.com/silicon-valley-data-science/learning-from-imbalanced-classes/blob/master/blagging.py)。这是 sklearn 现有的 bagging 实现的简单交叉，特别是./sklearn/ensemble/bagging.py.
 - 使用这一方法的一个 notebook 在 [ImbalancedClasses.ipynb](https://github.com/silicon-valley-data-science/learning-from-imbalanced-classes/blob/master/ImbalancedClasses.ipynb) 是开放的。它可装载于数个领域，并且在不同分布下与其他方法进行了 blagging 对比。
