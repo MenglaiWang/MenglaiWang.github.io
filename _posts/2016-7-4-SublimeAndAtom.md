@@ -20,6 +20,7 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 - **SublimeLinter**
 - **FileDiffs**
 - **Auto Semi-Colon**：TAB自动跳出括号
+- **Sync Settings**：利用gist同步设置
 
 
 ### Atom插件
@@ -29,3 +30,8 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 - **python-tools**
 - **highlight_selected**：
 - **minimap**：类似于sublime
+- **sync-settings**：利用gist同步设置
+- **platformio-ide-terminal**
+- **Auto Semi-Colon**：TAB自动跳出括号
+- **simplified-chinese-menu**：汉化包
+
